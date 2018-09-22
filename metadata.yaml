@@ -1,11 +1,16 @@
 _repo: Rund-um-Sud-Amerika-Reisebriefe_55419
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55419-h/images/cover.jpg
 creator:
   author:
     agent_name: Riesemann, Oskar von
     gutenberg_agent_id: '48325'
     url: http://www.gutenberg.org/2009/agents/48325
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55419#Rund-um-Sud-Amerika-Reisebriefe
 gutenberg_issued: '2017-08-23'
 gutenberg_type: Text
 identifiers:
